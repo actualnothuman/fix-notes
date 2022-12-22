@@ -22,16 +22,17 @@ I use this script in combination with obsidian but this is not needed as the scr
 
 ## Template (no path as input, it searches automatically)
 
-in [folder or file name]]
-[first sentence, will also be used as the name]
+in [folder or file name]]\
+[first sentence, will also be used as the name]\
 etc...
 
 
 ## Example
 
-in math
-gödels satz
-much mathi stuff
-more mathi stuff
+in math\
+gödels satz\
+much mathi stuff\
+more mathi stuff\
+...
 
 -> Will create a note called "gödels satz" in the directionary "math". Everything, also the category, will be printed in the note though (to check if everything went right more easily)
