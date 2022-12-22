@@ -1,7 +1,7 @@
 # fix-notes
 
 !! I do not gurantee for data loss. This is a new script and not well checked yet. Please read it yourself first.!!
-!! I also did not write yet everything down that it does to handle exceptions. !!
+!! I also did not write yet everything down that it does to handle exceptions. !! 
 
 ## How to use
 
